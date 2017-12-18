@@ -35,27 +35,18 @@
   <project path="hardware/ti/omap4" name="MoKee/android_hardware_ti_omap4" />
   <project path="hardware/ti/wlan" name="MoKee/android_hardware_ti_wlan" />
   <project path="hardware/ti/wpan" name="MoKee/android_hardware_ti_wpan" />
-  <project path="packages/apps/Aegis" name="MoKee/android_packages_apps_Aegis" />
   <project path="packages/apps/AudioFX" name="MoKee/android_packages_apps_AudioFX" />
   <project path="packages/apps/MKCenter" name="MoKee/android_packages_apps_MKCenter" />
   <project path="packages/apps/MKParts" name="MoKee/android_packages_apps_MKParts" />
-  <project path="packages/apps/Eleven" name="MoKee/android_packages_apps_Eleven" />
-  <project path="packages/apps/Exchange" name="ThirdProject/android_packages_apps_Exchange" remote="third" />
-  <project path="packages/apps/FMRadio" name="MoKee/android_packages_apps_FMRadio" />
-  <project path="packages/apps/Jelly" name="MoKee/android_packages_apps_Jelly" />
   <project path="packages/apps/Lawnchair" name="MoKee/android_packages_apps_Lawnchair" />
   <project path="packages/apps/LockClock" name="MoKee/android_packages_apps_LockClock" />
-  <project path="packages/apps/Profiles" name="MoKee/android_packages_apps_Profiles" />
   <project path="packages/apps/Recorder" name="MoKee/android_packages_apps_Recorder" />
   <project path="packages/apps/SetupWizard" name="MoKee/android_packages_apps_SetupWizard" />
-  <project path="packages/apps/Snap" name="MoKee/android_packages_apps_Snap" />
-  <project path="packages/apps/Venus" name="MoKee/android_packages_apps_Venus" />
   <project path="packages/apps/XposedInstaller" name="MoKee/android_packages_apps_XposedInstaller" />
   <project path="packages/providers/DataUsageProvider" name="MoKee/android_packages_providers_DataUsageProvider" />
   <project path="packages/providers/MoKeeWeatherProvider" name="MoKee/android_packages_providers_MoKeeWeatherProvider" />
   <project path="packages/providers/WeatherProvider" name="MoKee/android_packages_providers_WeatherProvider" />
   <project path="packages/services/MKAudioService" name="MoKee/android_packages_services_MKAudioService" />
-  <project path="packages/services/MKUpdateVerification" name="MoKee/android_packages_services_MKUpdateVerification" />
   <project path="packages/services/ThemeInterfacer" name="MoKee/android_packages_services_ThemeInterfacer" />
   <project path="packages/services/WeatherService" name="MoKee/android_packages_services_WeatherService" />
   <project path="prebuilts/mksdk" name="MoKee/android_prebuilts_mksdk" clone-depth="1" />
